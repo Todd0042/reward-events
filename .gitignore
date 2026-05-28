@@ -1,0 +1,6 @@
+# Public binary repo — tracks ONLY the released DLL.
+# Everything else is excluded.
+
+*
+!.gitignore
+!reward-events.dll
