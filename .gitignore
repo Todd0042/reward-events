@@ -3,5 +3,5 @@
 
 *
 !.gitignore
-!reward-events.dll
+!char-events.dll
 !README.md

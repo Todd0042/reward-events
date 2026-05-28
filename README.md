@@ -1,6 +1,6 @@
-# reward-events
+# char-events
 
-Public binary release. Source: [Todd0042/reward-events-src](https://github.com/Todd0042/reward-events-src) (private).
+Public binary release. Source: [Todd0042/char-events-src](https://github.com/Todd0042/char-events-src) (private).
 
 ```
 EV_REWARD:Any
